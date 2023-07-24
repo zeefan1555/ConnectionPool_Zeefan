@@ -1,0 +1,16 @@
+data/libmysql.dll.i
+data/CommonConnectionPool.vcxproj.user.i
+data/.hgignore.i
+data/Module.ixx.i
+data/CommonConnectionPool.cpp.i
+data/pch.cpp.i
+data/CommonConnectionPool.vcxproj.i
+data/CommonConnectionPool.vcxproj.filters.i
+data/Connection.cpp.i
+data/Connection.h.i
+data/CommonConnectionPool.h.i
+data/public.h.i
+data/main.cpp.i
+data/mysql.ini.i
+data/libmysql.dll.d
+data/pch.h.i
